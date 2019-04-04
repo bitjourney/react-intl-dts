@@ -1,3 +1,5 @@
+- 0.4.0 2019/04/04
+  - Move to `@bitjourney/react-intl-dts` scoped package
 - 0.3.3 2019/04/03
   - Fix executable file name
 - 0.3.2 2019/04/03
