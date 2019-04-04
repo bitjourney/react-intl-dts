@@ -1,4 +1,4 @@
-# react-intl-dts [![npm version](https://badge.fury.io/js/react-intl-dts.svg)](https://badge.fury.io/js/react-intl-dts)
+# @bitjourney/react-intl-dts [![npm version](https://badge.fury.io/js/@bitjourney/react-intl-dts.svg)](https://badge.fury.io/js/@bitjourney/react-intl-dts)
 
 react-intl-dts is based on [i18n-dts](https://github.com/quipper/i18n-dts). Thank you!
 
@@ -11,13 +11,13 @@ With generated `d.ts` file you can treat `FormattedMessage` component type-safel
 #### NPM
 
 ```sh
-npm install -D react-intl-dts
+npm install -D @bitjourney/react-intl-dts
 ```
 
 #### Yarn
 
 ```sh
-yarn add -D react-intl-dts
+yarn add -D @bitjourney/react-intl-dts
 ```
 
 ## Configuration
@@ -78,7 +78,7 @@ react-intl-dts --watch
 ## Licence
 
 ```
-Copyright 2019 Masataka Pocke Kuwabara
+Copyright 2019 Bit Journey, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
