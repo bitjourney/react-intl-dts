@@ -1,4 +1,4 @@
-# @bitjourney/react-intl-dts [![npm version](https://badge.fury.io/js/@bitjourney/react-intl-dts.svg)](https://badge.fury.io/js/@bitjourney/react-intl-dts)
+# @bitjourney/react-intl-dts [![npm version](https://badge.fury.io/js/%40bitjourney%2Freact-intl-dts.svg)](https://badge.fury.io/js/%40bitjourney%2Freact-intl-dts)
 
 react-intl-dts is based on [i18n-dts](https://github.com/quipper/i18n-dts). Thank you!
 
