@@ -1,5 +1,5 @@
 {
-  "i18n-dts": {
+  "react-intl-dts": {
     "model": "./en.json",
     "outputDir": "./typings"
   }

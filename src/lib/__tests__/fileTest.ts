@@ -71,7 +71,9 @@ describe('file', () => {
 
     it('returns error with wrong file extension', () => {
       const error = getTranslationFromModel(
-        path.resolve('./src/lib/__tests__/fixtures/wrong_ext_name/package.jsonp'),
+        path.resolve(
+          './src/lib/__tests__/fixtures/wrong_ext_name/package.jsonp',
+        ),
       );
       expect(error instanceof Error).toBeTruthy();
       expect((error as Error).message).toEqual(
@@ -85,7 +87,7 @@ describe('file', () => {
       );
       expect(config instanceof Error).toBeFalsy();
       expect(config).toEqual({
-        'i18n-dts': {
+        'react-intl-dts': {
           model: './en.json',
           outputDir: './typings',
         },
