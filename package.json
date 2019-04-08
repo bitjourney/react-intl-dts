@@ -1,6 +1,6 @@
 {
   "name": "@bitjourney/react-intl-dts",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "A tiny d.ts file generator for react-intl",
   "bin": {
     "react-intl-dts": "build/bin/index.js"
