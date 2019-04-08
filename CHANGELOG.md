@@ -1,3 +1,6 @@
+- 0.5.0 2019/04/08
+  - Insert comments to disable Lint into type definition file. [#5](https://github.com/bitjourney/react-intl-dts/pull/5)
+  - Add new lines to each literal types. [#4](https://github.com/bitjourney/react-intl-dts/pull/4)
 - 0.4.0 2019/04/04
   - Move to `@bitjourney/react-intl-dts` scoped package
 - 0.3.3 2019/04/03
