@@ -19,21 +19,21 @@
     "access": "public"
   },
   "dependencies": {
-    "commander": "^2.15.1",
-    "mkdirp": "^0.5.1"
+    "commander": "*",
+    "mkdirp": "*"
   },
   "devDependencies": {
-    "@types/commander": "^2.12.2",
-    "@types/jest": "^22.2.3",
-    "@types/mkdirp": "^0.5.2",
-    "@types/node": "^9.4.6",
-    "@types/react-intl": "^2.3.17",
-    "jest": "^22.4.3",
-    "prettier": "^1.12.1",
-    "ts-jest": "^23.10.5",
-    "tslint": "^5.9.1",
-    "tslint-config-prettier": "^1.12.0",
-    "typescript": "^3.4.1"
+    "@types/commander": "*",
+    "@types/jest": "*",
+    "@types/mkdirp": "*",
+    "@types/node": "*",
+    "@types/react-intl": "*",
+    "jest": "*",
+    "prettier": "*",
+    "ts-jest": "*",
+    "tslint": "*",
+    "tslint-config-prettier": "*",
+    "typescript": "*"
   },
   "jest": {
     "testURL": "http://localhost/",
