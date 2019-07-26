@@ -14,6 +14,7 @@ export const generate = (
     mkdirp.sync(dirPath);
   }
   const keys = flattenKeys(translations);
+  keys.sort((a, b) => (a.key < b.key ? -1 : a.key > b.key ? 1 : 0));
   const data = dts(keys);
   const outputPath = path.join(dirPath, OUTPUT_FILE_NAME);
   return execWriteFile(outputPath, data);
